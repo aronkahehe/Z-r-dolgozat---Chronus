@@ -24,7 +24,7 @@
 
       <div class="box">
          <h3>Elérhetőségeink</h3>
-         <a href="https://ongyilkossagmegelozes.hu/" target="_blank"><i class="fas fa-phone"></i>+116-123</a>
+         <a href="index.php"><i class="fas fa-phone"></i>+36 30 555 4444</a>
          <a href="mailto:chronus@protonmail.com" target="_blank"><i class="fas fa-envelope"></i>chronus@watch.com</a>
          <a href="https://www.google.com/maps/d/viewer?mid=1uPDbY7u5xIF-jnfrB8U9MG7wf-w&hl=en_US&ll=46.906250000000014%2C19.689597000000006&z=17" target="_blank"><i class="fas fa-map-marker-alt"></i>Kecskemét, HU - 6000 </a>
       </div>
