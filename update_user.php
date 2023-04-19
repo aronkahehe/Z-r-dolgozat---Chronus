@@ -32,7 +32,7 @@ if(isset($_POST['submit'])){
    if($old_pass == $empty_pass){
       $message[] = 'Add meg a régi jelszavad!';
    }elseif($old_pass != $prev_pass){
-      $message[] = 'Nem megfelelő a jelszó!';
+      $message[] = 'Előző jelszavaddal megegyezik!';
    }elseif($new_pass != $cpass){
       $message[] = 'Jelszavak nem egyeznek meg!';
    }else{
